@@ -1,0 +1,52 @@
+Clasificación de requerimientos del caso FAndroid
+
+Nombres: Camila Zambrano - David Narvaez
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+***********************
+Requisitos Funcionales:
+***********************
+
+Creación de Cuenta de Usuario: El sistema debe permitir a los clientes crear una cuenta de usuario.
+
+Asociación de Información de Tarjeta: Los usuarios deben obligatoriamente asociar información de su tarjeta de crédito a su cuenta de usuario.
+
+Almacenamiento de Información de Tarjeta: El sistema debe almacenar de manera segura la información de la tarjeta de crédito para su uso en compras futuras.
+
+Compra de Aplicaciones: Los clientes deben poder comprar aplicaciones desde la plataforma en línea.
+
+Configuración de Cuenta en Dispositivos Múltiples: Los usuarios deben poder configurar su cuenta en uno o más dispositivos.
+
+Consulta y Modificación de Información Personal: Los clientes deben poder consultar y modificar su información personal y de tarjeta de crédito.
+
+Acumulación de Puntos por Compras: El sistema debe permitir a los clientes acumular puntos por las compras realizadas con la tarjeta de crédito.
+
+Canje de Puntos por Premios Físicos: Los clientes deben poder canjear los puntos acumulados por premios físicos.
+
+Validación Telefónica de Canje: El sistema debe permitir la validación telefónica de los canjes de puntos por un Ejecutivo de Canjes de Fandroid.
+
+Emisión de Certificado Canjeable: Después de la validación, el Ejecutivo de Canjes debe emitir un certificado canjeable que se pueda usar en tiendas de retail.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+***************************
+Requisitos No Funcionales:
+***************************
+
+Seguridad de Datos: El sistema debe garantizar la seguridad de la información de tarjetas de crédito y datos personales almacenados.
+
+Usabilidad: La plataforma debe ser fácil de usar y navegar para los clientes.
+
+Rendimiento: El sistema debe operar con tiempos de respuesta aceptables, especialmente durante el proceso de compra y canje.
+
+Compatibilidad: La plataforma debe ser compatible con diferentes dispositivos y navegadores utilizados por los clientes.
+
+Disponibilidad: La plataforma debe estar disponible para su uso en horarios determinados para los clientes.
+
+Escalabilidad: El sistema debe ser capaz de manejar un aumento en la cantidad de usuarios y transacciones sin degradación en el rendimiento.
+
+Mantenibilidad: El sistema debe ser fácil de mantener y actualizar en caso de cambios en los requisitos o mejoras futuras.
+
+Satisfacción del Cliente: El sistema debe proporcionar una experiencia satisfactoria para los clientes al comprar aplicaciones y canjear puntos por premios.
+
+
+

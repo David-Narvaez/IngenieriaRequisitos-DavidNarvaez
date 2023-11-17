@@ -1,0 +1,45 @@
+Clasificación de requerimientos del sistema de boletos de tren
+
+Nombres: Camila Zambrano - David Narvaez
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+***********************
+Requisitos Funcionales:
+***********************
+
+Expedición de boletos: El sistema debe ser capaz de expedir boletos de tren a los usuarios.
+
+Selección de Destino: Los usuarios deben poder seleccionar su destino deseado a través de un menú.
+
+Introducción de Información: El sistema debe permitir a los usuarios ingresar su tarjeta de crédito y número de identificación personal.
+
+Validación de Destino: El sistema debe validar que el destino seleccionado por el usuario sea válido y esté disponible.
+
+Introducción de Identificación Personal: Después de la selección del destino, el sistema debe solicitar al usuario que ingrese su número de identificación personal.
+
+Validación de Transacción de Crédito: El sistema debe validar la transacción de crédito con la tarjeta ingresada antes de expedir el boleto.
+
+Expedición de boleto: Una vez validada la transacción, el sistema debe generar y expedir el boleto de tren al usuario
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+***************************
+Requisitos No Funcionales:
+***************************
+
+Seguridad: El sistema debe garantizar la seguridad de los datos de la tarjeta de crédito y la información personal del usuario durante todo el proceso.
+
+Rendimiento: El sistema debe operar con tiempos de respuesta aceptables, evitando demoras significativas en la expedición del boleto.
+
+Usabilidad: La interfaz de usuario debe ser intuitiva y fácil de usar, guiando al usuario a lo largo del proceso de compra.
+
+Disponibilidad: El sistema debe estar disponible para su uso en horarios determinados, de acuerdo con el horario de funcionamiento de la estación de tren.
+
+Compatibilidad: El sistema debe ser compatible con diferentes tipos de tarjetas de crédito y dispositivos utilizados por los usuarios.
+
+Escalabilidad: El sistema debe poder manejar un aumento en el número de usuarios sin degradación significativa en el rendimiento.
+
+Fiabilidad: El sistema debe ser confiable y no debe experimentar fallas frecuentes que afecten negativamente la experiencia del usuario.
+
+Localización: El sistema debe ser capaz de presentar información en diferentes idiomas según la ubicación de la estación.
+
+Mantenibilidad: El sistema debe ser diseñado de manera que sea fácil de mantener y actualizar en caso de futuras mejoras o cambios en los requisitos.
